@@ -1,4 +1,8 @@
 # Front-End Boilerplate
+
+>This is no longer maintained. I'd recommend using this instead, https://github.com/SeaMonster-Studios/webpack-proxy-starter
+
+
 A boiler plate for Front-End developers, built with gulp and browsersync.
 
 This repo is the `_source` folder for your project. It can be placed wherever you like in your project, just be sure to update the paths variables within **Gulpfile.js**. It currently will put outputted js/css/font/image files in a sibling `public/dist` directory. Directory structure looks like so...
